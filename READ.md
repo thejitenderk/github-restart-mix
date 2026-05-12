@@ -9,3 +9,10 @@ open source and free to use to everyone
 
 # git - technology 
 # github/gitlab/bitbucket/azure repos/SVN tortoise - service provider with git
+git init
+git status
+git add filename
+git commit -m "message"
+git commit -a -m "message"
+git log 
+git dont recognized empty folders
