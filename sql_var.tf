@@ -1,3 +1,3 @@
-variable "sqlnames" {
-  type = string
+variable "sqlname" {
+  
 }
