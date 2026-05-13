@@ -1,0 +1,3 @@
+variable "sqlnames" {
+  type = string
+}
